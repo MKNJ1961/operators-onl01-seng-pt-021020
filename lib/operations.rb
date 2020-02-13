@@ -4,7 +4,7 @@
     if speed >60 
       true
    else
-     false
+     true
    
 end
 end
